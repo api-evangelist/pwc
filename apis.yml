@@ -14,7 +14,7 @@ description: >-
   client connectivity is bilateral and project-scoped rather than offered as
   a self-serve API product.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Consulting
   - Accounting
